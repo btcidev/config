@@ -1,0 +1,8 @@
+<smt>
+<SERVEUR_EMQX>"in.servicegarnier.com"</SERVEUR_EMQX>
+<SMT_BASE_URL_API>"https://api-smt.elphsoft.win/api/smt"</SMT_BASE_URL_API>
+<EGOU_MANAGER_BASE_URL_API>"https://api-egou-manager.elphsoft.win/api"</EGOU_MANAGER_BASE_URL_API>
+<Serveur_hfsql>"hfsql-cjga-db-host"</Serveur_hfsql>
+<User_hfsql>"Admin"</User_hfsql>
+<Passe_hfsql>"ECOLE1515@@"</Passe_hfsql>
+</smt>
